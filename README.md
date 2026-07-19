@@ -188,7 +188,6 @@ exploring:
 <h2 align="center"><code>06 // GITHUB TELEMETRY</code></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yahiro025&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0B1A&title_color=A78BFA&text_color=E9D5FF&icon_color=22D3EE&ring_color=8B5CF6" width="49%" alt="GitHub Stats — Yahiro025"/>
   <img src="https://streak-stats.demolab.com/?user=Yahiro025&theme=tokyonight&hide_border=true&background=0B0B1A&stroke=8B5CF6&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E9D5FF&dates=E9D5FF" width="49%" alt="GitHub Streak Stats — Yahiro025"/>
 </p>
 
