@@ -241,29 +241,16 @@ A pragmatic sari-sari-store and small-MSME bookkeeping tool that turns a phone p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yahiro025&show_icons=true&theme=radical&hide_border=true&bg_color=0B0B1A&title_color=A78BFA&text_color=E9D5FF&icon_color=8B5CF6&ring_color=7C3AED" height="170" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=Yahiro025&theme=tokyonight&hide_border=true&background=0B0B1A&stroke=6D28D9&ring=8B5CF6&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=E9D5FF&dates=E9D5FF" height="170" alt="Streak Stats"/>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiro025&layout=compact&theme=radical&hide_border=true&bg_color=0B0B1A&title_color=A78BFA&text_color=E9D5FF&langs_count=10" height="160" alt="Top Languages"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-## 🏅 GitHub Trophies
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yahiro025&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=8" alt="Trophies"/>
-
-</div>
 
 ---
 
